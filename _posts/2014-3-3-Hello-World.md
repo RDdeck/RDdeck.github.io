@@ -3,17 +3,17 @@ layout: post
 title: Welcome to my Blog!
 published: true
 ---
-##This is my First Blog using jekyl
+## This is my First Blog using jekyl
 
 
 
 
-###explore my projects!
+### explore my projects!
 
 
 
 
-****hi,
+**** hi,
 
 [www.google.com](www.google.com)
 
