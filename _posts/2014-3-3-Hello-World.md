@@ -14,7 +14,4 @@ published: true
 
 
 **** hi,
-
-[www.google.com](www.google.com)
-
-![]({{site.baseurl}}/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fwebsite%2520background%2F&psig=AOvVaw2gfzPFq8le6qfhHFMDlp40&ust=1668588659379000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMisjaXnr_sCFQAAAAAdAAAAABAE)![url]({{site.baseurl}}/https:/www.google.com/url)
+[Linkedin](https://www.linkedin.com/in/roshan-david-rd/ "CHECKOUT HERE..")
