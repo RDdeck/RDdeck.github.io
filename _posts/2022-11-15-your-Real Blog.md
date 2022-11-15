@@ -6,6 +6,4 @@ published: true
 __Italic content
 -unordered list
 1.ordered list
-> We loved with a love that was more than love
-
-this is quote
+> this is quote
